@@ -1,0 +1,6 @@
+framework module Pods_Chuck_Norris_Desafio_Chuck_Norris_DesafioUITests {
+  umbrella header "Pods-Chuck Norris Desafio-Chuck Norris DesafioUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

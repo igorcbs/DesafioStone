@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Chuck Norris Desafio-Chuck Norris DesafioUITests/Pods-Chuck Norris Desafio-Chuck Norris DesafioUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxRelay/RxRelay.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
