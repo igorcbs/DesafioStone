@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		782251EC25BB1B9D002B6615 /* Coodinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 782251EB25BB1B9D002B6615 /* Coodinator.swift */; };
 		782251F125BB2D39002B6615 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 782251F025BB2D39002B6615 /* Service.swift */; };
+		7867A5C225C1F22D00337DC7 /* InfoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7867A5C125C1F22D00337DC7 /* InfoViewModel.swift */; };
 		7899B87D25BB0AF800D32093 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7899B87C25BB0AF800D32093 /* AppDelegate.swift */; };
 		7899B87F25BB0AF800D32093 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7899B87E25BB0AF800D32093 /* SceneDelegate.swift */; };
 		7899B88125BB0AF800D32093 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7899B88025BB0AF800D32093 /* ViewController.swift */; };
@@ -45,6 +46,7 @@
 		3AE4B0363083A656F54A4644 /* Pods_Chuck_Norris_DesafioTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Chuck_Norris_DesafioTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		782251EB25BB1B9D002B6615 /* Coodinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coodinator.swift; sourceTree = "<group>"; };
 		782251F025BB2D39002B6615 /* Service.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
+		7867A5C125C1F22D00337DC7 /* InfoViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewModel.swift; sourceTree = "<group>"; };
 		7899B87925BB0AF800D32093 /* Chuck Norris Desafio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Chuck Norris Desafio.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7899B87C25BB0AF800D32093 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7899B87E25BB0AF800D32093 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				7899B8AF25BB0D3C00D32093 /* InfoModel.swift */,
 				782251EB25BB1B9D002B6615 /* Coodinator.swift */,
 				782251F025BB2D39002B6615 /* Service.swift */,
+				7867A5C125C1F22D00337DC7 /* InfoViewModel.swift */,
 			);
 			path = "Chuck Norris Desafio";
 			sourceTree = "<group>";
@@ -419,6 +422,7 @@
 				7899B87D25BB0AF800D32093 /* AppDelegate.swift in Sources */,
 				782251EC25BB1B9D002B6615 /* Coodinator.swift in Sources */,
 				7899B87F25BB0AF800D32093 /* SceneDelegate.swift in Sources */,
+				7867A5C225C1F22D00337DC7 /* InfoViewModel.swift in Sources */,
 				7899B8B025BB0D3C00D32093 /* InfoModel.swift in Sources */,
 				782251F125BB2D39002B6615 /* Service.swift in Sources */,
 			);

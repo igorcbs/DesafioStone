@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A0F93867-3F1D-4864-9099-766FFE9FF25E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF40BA6A-3630-4829-977B-65266533D9F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chuck Norris Desafio/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "fetchFacts(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "839E946A-7D22-4B6F-BC84-2178D7C53B54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chuck Norris Desafio/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchFacts(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "839E946A-7D22-4B6F-BC84-2178D7C53B54 - 8a7e5669f27dd22e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chuck_Norris_Desafio.RequestCalling.fetchFacts(with: Swift.String) -&gt; RxSwift.Observable&lt;Swift.Array&lt;Chuck_Norris_Desafio.ChuckNorrisModel&gt;&gt;"
+                  moduleName = "Chuck Norris Desafio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/igor/Documents/Projetos/Chuck%20Norris%20Desafio%20-%20Stone/DesafioStone/Chuck%20Norris%20Desafio/Chuck%20Norris%20Desafio/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "839E946A-7D22-4B6F-BC84-2178D7C53B54 - 777a4dbb1533e6af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RxSwift.AnyObserver&lt;Swift.Array&lt;Chuck_Norris_Desafio.ChuckNorrisModel&gt;&gt;) -&gt; RxSwift.Disposable in Chuck_Norris_Desafio.RequestCalling.fetchFacts(with: Swift.String) -&gt; RxSwift.Observable&lt;Swift.Array&lt;Chuck_Norris_Desafio.ChuckNorrisModel&gt;&gt;"
+                  moduleName = "Chuck Norris Desafio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/igor/Documents/Projetos/Chuck%20Norris%20Desafio%20-%20Stone/DesafioStone/Chuck%20Norris%20Desafio/Chuck%20Norris%20Desafio/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "275">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D86E3F23-427E-4D3F-A495-615CDC0E802D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chuck Norris Desafio/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchFacts(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D86E3F23-427E-4D3F-A495-615CDC0E802D - 777a4dbb1533e6ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RxSwift.AnyObserver&lt;Swift.Array&lt;Chuck_Norris_Desafio.ChuckNorrisModel&gt;&gt;) -&gt; RxSwift.Disposable in Chuck_Norris_Desafio.RequestCalling.fetchFacts(with: Swift.String) -&gt; RxSwift.Observable&lt;Swift.Array&lt;Chuck_Norris_Desafio.ChuckNorrisModel&gt;&gt;"
+                  moduleName = "Chuck Norris Desafio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/igor/Documents/Projetos/Chuck%20Norris%20Desafio%20-%20Stone/DesafioStone/Chuck%20Norris%20Desafio/Chuck%20Norris%20Desafio/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1122">
+               </Location>
+               <Location
+                  uuid = "D86E3F23-427E-4D3F-A495-615CDC0E802D - 632d4c9a4b4a4b5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (RxSwift.AnyObserver&lt;Swift.Array&lt;Chuck_Norris_Desafio.ChuckNorrisModel&gt;&gt;) -&gt; RxSwift.Disposable in Chuck_Norris_Desafio.RequestCalling.fetchFacts(with: Swift.String) -&gt; RxSwift.Observable&lt;Swift.Array&lt;Chuck_Norris_Desafio.ChuckNorrisModel&gt;&gt;"
+                  moduleName = "Chuck Norris Desafio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/igor/Documents/Projetos/Chuck%20Norris%20Desafio%20-%20Stone/DesafioStone/Chuck%20Norris%20Desafio/Chuck%20Norris%20Desafio/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
